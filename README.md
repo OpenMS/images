@@ -9,14 +9,17 @@ Color codes are given in both hexadecimal and RGB values.
 - `#29379B` 
 - `rgb(41, 55, 155)`
 - Color used for the text "OpenMS".
+
 **White**
 - `#FFFFFF` 
 - `rgb(255, 255, 255)`
 - Color used for the text "Open". Also used for the logo background, if the background is not transparent.
+
 **Red**
 - `#F30519` 
 - `rgb(243, 5, 25)`
 - Color used for the red line behind the text.
+
 **Grey**
 - `#D6D3D8` 
 - `rgb(214, 211, 216)`
