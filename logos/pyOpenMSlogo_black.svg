@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip0">
+      <rect x="0" y="0" width="1280" height="720"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip0)" transform="matrix(1, 0, 0, 1, -300.788217, -115.461246)">
+    <text font-family="Arial,Arial_MSFontService,sans-serif" font-weight="700" font-size="80" style="white-space: pre; font-size: 80px;" x="344.743" y="451.938">pyOpenMS</text>
+    <rect x="408.576" y="289.938" width="17" height="96"/>
+    <rect x="461.576" y="243.938" width="16" height="142"/>
+    <rect x="511.576" y="309.938" width="17" height="76"/>
+    <rect x="562.576" y="355.938" width="17" height="30"/>
+  </g>
+</svg>
