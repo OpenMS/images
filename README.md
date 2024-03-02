@@ -24,3 +24,8 @@ Color codes are given in both hexadecimal and RGB values.
 - `#D6D3D8` 
 - `rgb(214, 211, 216)`
 - Color used for a shadow to the lower right of the letters in the logo.
+
+### Fonts
+
+**OpenMS Logo**
+- the OpenMS logo uses Wine-Tahoma font (which is available here https://github.com/kode54/wine/blob/master/fonts/tahoma.ttf). This is licensed under a LGPL license.
