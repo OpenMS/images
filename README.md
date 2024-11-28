@@ -29,3 +29,6 @@ Color codes are given in both hexadecimal and RGB values.
 
 **OpenMS Logo**
 - the OpenMS logo uses Wine-Tahoma font (which is available here https://github.com/kode54/wine/blob/master/fonts/tahoma.ttf). This is licensed under a LGPL license.
+
+**PyOpenMS Logo**
+- The new version of this logo also uses Wine-Tahoma, to align with branding strategy.
