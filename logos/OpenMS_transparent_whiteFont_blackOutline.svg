@@ -4,30 +4,8 @@
    data-name="Layer 1"
    viewBox="0 0 841.89 595.28"
    version="1.1"
-   sodipodi:docname="favicon.svg"
-   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview23"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="1.3355059"
-     inkscape:cx="397.97653"
-     inkscape:cy="305.12782"
-     inkscape:window-width="1920"
-     inkscape:window-height="1013"
-     inkscape:window-x="2391"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="g18" />
   <defs
      id="defs9">
     <style
@@ -104,7 +82,6 @@
              class="cls-2"
              d="m 109.03,282.82 c -21.23,0 -40.68,-7.53 -54.77,-21.19 -14.11,-13.68 -21.89,-32.56 -21.89,-53.16 0,-20.6 7.77,-39.49 21.89,-53.17 14.09,-13.66 33.54,-21.18 54.77,-21.18 43.59,0 76.46,31.96 76.46,74.35 0,42.39 -32.87,74.35 -76.46,74.35 z m 0,-124.14 c -29.41,0 -50.75,20.94 -50.75,49.79 0,28.85 21.34,49.79 50.75,49.79 29.18,0 50.36,-20.95 50.36,-49.79 0,-28.84 -21.18,-49.79 -50.36,-49.79 z"
              id="path11"
-             sodipodi:nodetypes="scscssssssss"
              style="stroke-width:5;stroke-dasharray:none" />
         </g>
         <g
@@ -119,14 +96,12 @@
              class="cls-2"
              d="M 228.15,318.94 H 202.63 V 168.7 h 24.95 v 10.31 c 8.93,-7.16 20.38,-11.08 33.07,-11.08 32.61,0 56.28,24.08 56.28,57.25 0,33.17 -23.67,57.44 -56.29,57.44 -12.55,0 -23.68,-3.7 -32.49,-10.64 z m 31.54,-127.21 c -18.68,0 -31.72,13.75 -31.72,33.45 0,19.7 13.04,33.45 31.72,33.45 18.68,0 31.72,-13.75 31.72,-33.45 0,-19.7 -13.04,-33.45 -31.72,-33.45 z"
              id="path13"
-             sodipodi:nodetypes="cccccsssccsssss"
              style="stroke-width:5;stroke-dasharray:none" />
         </g>
         <g
            id="g15"
            style="stroke-width:5;stroke-dasharray:none"
-           inkscape:transform-center-x="35.227747"
-           transform="translate(4.4926795,-0.74877992)">
+           transform="translate(4.4926795)">
           <path
              id="path14"
              class="cls-2"
@@ -136,7 +111,6 @@
              class="cls-2"
              d="m 381.9,282.62 c -16.74,0 -31.86,-5.75 -42.58,-16.19 -10.7,-10.43 -16.59,-25.07 -16.59,-41.25 0,-33.17 23.51,-57.25 55.91,-57.25 30.44,0 53.3,22.7 54.36,53.97 l 0.17,5.06 -80.83,15.72 c 5.58,10.1 16.29,15.95 29.76,15.95 11.09,0 20.22,-3.86 26.4,-11.15 l 4.47,-5.28 15.56,17.89 -3.26,3.89 C 415.18,276 399.78,282.62 381.9,282.62 Z m -3.27,-91.09 c -17.45,0 -29.47,11.83 -30.66,29.73 l 58.09,-11.28 c -4.18,-11.38 -14.43,-18.46 -27.42,-18.46 z"
              id="path15"
-             sodipodi:nodetypes="scsscccsccccsccccc"
              style="stroke-width:5;stroke-dasharray:none" />
         </g>
         <g
@@ -151,7 +125,6 @@
              class="cls-2"
              d="m 553.87,302.49 h -25.52 v -84.03 c 0,-17.72 -7.99,-26.34 -24.42,-26.34 -18.7,0 -29.42,11.14 -29.42,30.57 v 58.98 H 448.99 V 168.7 h 24.95 v 9.23 c 8.58,-6.47 19.8,-10 32.49,-10 29.71,0 47.44,18.39 47.44,49.18 z"
              id="path17"
-             sodipodi:nodetypes="ccssscccccssc"
              style="stroke-width:5;stroke-dasharray:none" />
         </g>
       </g>
@@ -170,7 +143,6 @@
              class="cls-2"
              d="m 679.96,468.87 h -25.52 v -91.59 l -43.49,74.49 h -13.54 l -43.5,-74.04 v 91.14 H 528.39 V 322.48 h 25.25 l 50.87,93.34 51.65,-93.34 h 23.8 z"
              id="path19"
-             sodipodi:nodetypes="cccccccccccccc"
              style="stroke-width:5;stroke-dasharray:none" />
         </g>
         <g
@@ -185,7 +157,6 @@
              class="cls-2"
              d="m 754.91,470.03 c -21.64,0 -42.93,-7.58 -54.23,-19.31 l -2.93,-3.04 11.16,-21.94 5.78,5.67 c 9.07,8.89 24.86,14.63 40.23,14.63 19.18,0 30.18,-6.52 30.18,-17.89 0,-11.37 -10.33,-14.92 -32.25,-20.26 -22.53,-5.49 -50.57,-12.32 -50.57,-43.73 0,-12.07 5.01,-22.88 14.1,-30.44 9.76,-8.11 24.08,-12.4 41.42,-12.4 17.34,0 33.43,4.85 45.1,12.99 l 3.95,2.76 -9.46,22.3 -5.94,-3.86 c -9.94,-6.47 -22.21,-10.18 -33.66,-10.18 -18.82,0 -29.61,6.73 -29.61,18.47 0,11.74 12.35,15.49 32.49,20.41 22.42,5.47 50.33,12.29 50.33,43.19 0,12.05 -5.1,22.84 -14.37,30.38 -9.86,8.02 -24.29,12.26 -41.72,12.26 z"
              id="path21"
-             sodipodi:nodetypes="cccccsscscsccccsscsscc"
              style="stroke-width:5;stroke-dasharray:none" />
         </g>
       </g>
